@@ -1,0 +1,15 @@
+title {
+    color: white;
+}
+
+h1 {
+    color: white;
+}
+
+#head .tagline {
+    color: white;
+}
+#head .tagline a {
+    color: white;
+    margin-top: 15px;
+}
