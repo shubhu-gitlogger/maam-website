@@ -42,8 +42,8 @@
 			<div class="navbar-collapse collapse">
 				
 				<ul class="nav navbar-nav">
-					<li><a href="index.php">Home</a></li>
-					<li><a href="about.php">About</a></li>
+					<li><a href="index.html">Home</a></li>
+					<li><a href="about.html">About</a></li>
 					<li class="dropdown">
 						<a href="#" class="dropdown-toggle" data-toggle="dropdown">More Pages <b class="caret"></b></a>
 						<ul class="dropdown-menu">
@@ -181,7 +181,7 @@
 				</div>
 			</div>
 
-			<div class="col-md-3 widget">
+			<!-- <div class="col-md-3 widget">
 				<h3 class="widget-title">Form widget</h3>
 				<div class="widget-body">
 					<p>+234 23 9873237<br>
@@ -190,13 +190,13 @@
 						234 Hidden Pond Road, Ashland City, TN 37015
 					</p>	
 				</div>
-			</div>
+			</div> -->
 
 		</div> <!-- /row of widgets -->
 	</div>
 </footer>
 
-<footer id="underfooter">
+<!-- <footer id="underfooter">
 	<div class="container">
 		<div class="row">
 			
@@ -214,9 +214,9 @@
 				</div>
 			</div>
 
-		</div> <!-- /row of widgets -->
+		</div> /row of widgets
 	</div>
-</footer>
+</footer> -->
 
 
 
