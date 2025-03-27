@@ -15,7 +15,7 @@
 			</div>
 		</div> <!-- / section -->
 		
-		<!-- <div class="row section featured topspace">
+		 <div class="row section featured topspace">
 			<h2 class="section-title"><span>Services</span></h2>
 			<div class="row">
 				<div class="col-sm-6 col-md-3">
@@ -39,7 +39,8 @@
 					<p class="text-center"><a href="" class="btn btn-action">Read more</a></p>
 				</div>
 			</div>
-		</div> / section -->
+		</div>
+		 <!-- / section --> 
 	
 		<div class="row section recentworks topspace">
 			
@@ -156,9 +157,6 @@
 <?php include 'include/footer.php'; ?>	
 
 
-<!-- JavaScript libs are placed at the end of the document so the pages load faster -->
-<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
-<script src="http://netdna.bootstrapcdn.com/bootstrap/3.0.0/js/bootstrap.min.js"></script>
-<script src="assets/js/template.js"></script>
+
 </body>
 </html>

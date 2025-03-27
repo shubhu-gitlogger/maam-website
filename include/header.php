@@ -23,9 +23,9 @@
 					<li class="dropdown">
 						<a href="#" class="dropdown-toggle" data-toggle="dropdown">Notes<b class="caret"></b></a>
 						<ul class="dropdown-menu">
-							<li><a href="sidebar-left.php">Software Testing </a></li>
-							<li><a href="sidebar-right.php">Computer Networking</a></li>
-							<li><a href="single.php">Discrete Mathematics</a></li>
+							<li><a href="software-testing.php">Software Testing </a></li>
+							<li><a href="networking.php">Computer Networking</a></li>
+							<li><a href="discre-mathematics.php">Discrete Mathematics</a></li>
 						</ul>
 					</li>
 					<!-- <li><a href="blog.php">Blog</a></li> -->
