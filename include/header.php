@@ -4,7 +4,7 @@
 			<!-- <img class="img-circle" src="assets/images/guy.png" alt=""> -->
 			<span class="title">Dr. Rama Bansode</span>
 			<span class="tagline">Professor<br>
-				<a href="mailto:rama.bansode@moderncoe.edu.in" target="_blank">rama.bansode@moderncoe.edu.in</a></span>
+				<a href="https://maps.app.goo.gl/dvSXvKU6ikefiGsw5" target="_blank">PES Modern College Of Engineering, PUNE</a></span>
 		</h1>
 	</div>
 
@@ -18,17 +18,17 @@
 			<div class="navbar-collapse collapse">
 				
 				<ul class="nav navbar-nav">
-					<li class="active"><a href="index.php">Home</a></li>
-					<li><a href="about.php">About</a></li>
+					<li><a href="index.php">Home</a></li>
+					<li class="active"><a href="about.php">About</a></li>
 					<li class="dropdown">
-						<a href="#" class="dropdown-toggle" data-toggle="dropdown">More Pages <b class="caret"></b></a>
+						<a href="#" class="dropdown-toggle" data-toggle="dropdown">Notes<b class="caret"></b></a>
 						<ul class="dropdown-menu">
-							<li><a href="sidebar-left.php">Left Sidebar</a></li>
-							<li><a href="sidebar-right.php">Right Sidebar</a></li>
-							<li><a href="single.php">Blog Post</a></li>
+							<li><a href="sidebar-left.php">Software Testing </a></li>
+							<li><a href="sidebar-right.php">Computer Networking</a></li>
+							<li><a href="single.php">Discrete Mathematics</a></li>
 						</ul>
 					</li>
-					<li><a href="blog.php">Blog</a></li>
+					<!-- <li><a href="blog.php">Blog</a></li> -->
 				</ul>
 			
 			</div><!--/.nav-collapse -->			

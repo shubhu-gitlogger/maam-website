@@ -50,12 +50,12 @@
 				<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
 					<a class="thumbnail" href="sidebar-right.php">
 						<span class="img">
-							<img src="assets/images/s1.jpg" alt="">
+							<img src="assets/images/new/software-testing.jpg" alt="">
 							<span class="cover"><span class="more">See details &rarr;</span></span>
 						</span>
-						<span class="title">Sample title - big data solutions</span>
+						<span class="title">Software Testing</span>
 					</a>
-					<span class="details"><a href="">Web design</a> | <a href="">Wordpress</a> | <a href="">Logotype</a></span>
+					<!-- <span class="details"><a href="">Web design</a> | <a href="">Wordpress</a> | <a href="">Logotype</a></span> -->
 					<h4></h4>
 					<p></p>
 				</div>
@@ -63,12 +63,12 @@
 				<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
 					<a class="thumbnail" href="sidebar-right.php">
 						<span class="img">
-							<img src="assets/images/s1.jpg" alt="">
+							<img src="assets/images/new/networking.jpg" alt="">
 							<span class="cover"><span class="more">See details &rarr;</span></span>
 						</span>
-						<span class="title">Pure ipsum - development services for people</span>
+						<span class="title">COmputer Networking</span>
 					</a>
-					<span class="details"><a href="">Web design</a> | <a href="">Wordpress</a></span>
+					<!-- <span class="details"><a href="">Web design</a> | <a href="">Wordpress</a></span> -->
 					<h4></h4>
 					<p></p>
 				</div>
@@ -76,12 +76,12 @@
 				<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
 					<a class="thumbnail" href="sidebar-right.php">
 						<span class="img">
-							<img src="assets/images/s1.jpg" alt="">
+							<img src="assets/images/new/maths.jpg" alt="">
 							<span class="cover"><span class="more">See details &rarr;</span></span>
 						</span>
-						<span class="title">Lorem studios - interior and patio design</span>
+						<span class="title">Discrete Mathematics</span>
 					</a>
-					<span class="details"><a href="">Web design</a> | <a href="">Logotype</a></span>
+					<!-- <span class="details"><a href="">Web design</a> | <a href="">Logotype</a></span> -->
 					<h4></h4>
 					<p></p>
 				</div>

@@ -4,10 +4,10 @@
 			<div class="col-md-3 widget">
 				<h3 class="widget-title">Contact</h3>
 				<div class="widget-body">
-					<p>+234 23 9873237<br>
-						<a href="mailto:#">some.email@somewhere.com</a><br>
+					<p>+9921325936<br>
+						<a href="mailto:rama.bansode@moderncoe.edu.in" target="_blank">rama.bansode@moderncoe.edu.in</a><br>
 						<br>
-						234 Hidden Pond Road, Ashland City, TN 37015
+						Pune, Maharashtra, India
 					</p>	
 				</div>
 			</div>
@@ -36,7 +36,7 @@
 				<h3 class="widget-title">Form widget</h3>
 				<div class="widget-body">
 					<p>+234 23 9873237<br>
-						<a href="mailto:#">some.email@somewhere.com</a><br>
+						<a href="mailto:rama.bansode@moderncoe.edu.in" target="_blank">rama.bansode@moderncoe.edu.in</a><br>
 						<br>
 						234 Hidden Pond Road, Ashland City, TN 37015
 					</p>	
@@ -71,7 +71,3 @@
 
 
 
-<!-- JavaScript libs are placed at the end of the document so the pages load faster -->
-<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
-<script src="http://netdna.bootstrapcdn.com/bootstrap/3.0.0/js/bootstrap.min.js"></script>
-<script src="assets/js/template.js"></script>
